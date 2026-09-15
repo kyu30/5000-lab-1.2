@@ -1,0 +1,91 @@
+---
+title: "My Quarto Website"
+author: "Keith Yu"
+format:
+  html:
+    toc: true
+    number-sections: true
+bibliography: reference.bib
+---
+
+# Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. This page demonstrates
+a variety of Quarto formatting features required for this assignment.
+
+## Background
+
+::: {layout-ncol=2}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris.
+
+Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+pariatur. Excepteur sint occaecat cupidatat non proident.
+:::
+
+### Key Points
+
+Here are the main takeaways from this section:
+
+- First important point about the topic
+- Second point, with supporting detail
+- Third point, wrapping up the idea
+
+## Data Summary
+
+| Category | Value | Notes        |
+|----------|-------|--------------|
+| Alpha    | 12    | Baseline     |
+| Beta     | 27    | Improved     |
+| Gamma    | 45    | Best result  |
+
+# Methods
+
+The relationship between the variables is given by the inline equation
+$E = mc^2$, which relates energy and mass.
+
+More formally, the general form is expressed as:
+
+$$
+\int_{a}^{b} f(x)\, dx = F(b) - F(a)
+$$
+
+This approach builds on established techniques in the field [@jordan2015machine].
+Further supporting evidence is discussed in @akmalia2025expression.
+
+> "The best way to predict the future is to invent it." This principle
+> guides the overall approach taken here.
+
+Some additional context worth noting.[^1]
+
+# Visuals
+
+Two supporting images are included below:
+
+![trees and mountaings](images/trees.jpg)
+
+![mountains and stuff](images/mountain.jpg)
+
+## Process Overview
+
+```{mermaid}
+flowchart TD
+    A[Start] --> B{Decision}
+    B -->|Yes| C[Do Task]
+    B -->|No| D[Skip Task]
+    C --> E[End]
+    D --> E[End]
+```
+
+## Video
+
+{{< video https://www.youtube.com/embed/dQw4w9WgXcQ >}}
+
+# Conclusion
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. This concludes the
+demonstration of Quarto's formatting capabilities.
+
+[^1]: This is a footnote providing additional context or a citation detail.

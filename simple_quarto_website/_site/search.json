@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Quarto Website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. This page demonstrates a variety of Quarto formatting features required for this assignment.\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n\nNisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\n\n\n\n\nHere are the main takeaways from this section:\n\nFirst important point about the topic\nSecond point, with supporting detail\nThird point, wrapping up the idea\n\n\n\n\n\n\n\n\nCategory\nValue\nNotes\n\n\n\n\nAlpha\n12\nBaseline\n\n\nBeta\n27\nImproved\n\n\nGamma\n45\nBest result"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "My Quarto Website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n\nNisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.\n\n\n\n\n\nHere are the main takeaways from this section:\n\nFirst important point about the topic\nSecond point, with supporting detail\nThird point, wrapping up the idea"
+  },
+  {
+    "objectID": "index.html#data-summary",
+    "href": "index.html#data-summary",
+    "title": "My Quarto Website",
+    "section": "",
+    "text": "Category\nValue\nNotes\n\n\n\n\nAlpha\n12\nBaseline\n\n\nBeta\n27\nImproved\n\n\nGamma\n45\nBest result"
+  },
+  {
+    "objectID": "index.html#process-overview",
+    "href": "index.html#process-overview",
+    "title": "My Quarto Website",
+    "section": "3.1 Process Overview",
+    "text": "3.1 Process Overview\n\n\n\n\n\nflowchart TD\n    A[Start] --&gt; B{Decision}\n    B --&gt;|Yes| C[Do Task]\n    B --&gt;|No| D[Skip Task]\n    C --&gt; E[End]\n    D --&gt; E[End]"
+  },
+  {
+    "objectID": "index.html#video",
+    "href": "index.html#video",
+    "title": "My Quarto Website",
+    "section": "3.2 Video",
+    "text": "3.2 Video"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "My Quarto Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a footnote providing additional context or a citation detail.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#introduction",
+    "href": "slides/slides.html#introduction",
+    "title": "My Presentation",
+    "section": "Introduction",
+    "text": "Introduction\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nPoint one\nPoint two\nPoint three"
+  },
+  {
+    "objectID": "slides/slides.html#background",
+    "href": "slides/slides.html#background",
+    "title": "My Presentation",
+    "section": "Background",
+    "text": "Background\n\nFirst imageThis idea builds on prior work (Jordan and Mitchell 2015)."
+  },
+  {
+    "objectID": "slides/slides.html#supporting-work",
+    "href": "slides/slides.html#supporting-work",
+    "title": "My Presentation",
+    "section": "Supporting Work",
+    "text": "Supporting Work\n\nSecond imageFurther discussion is found in Akmalia and Djauhari (2025)."
+  },
+  {
+    "objectID": "slides/slides.html#data-visualization",
+    "href": "slides/slides.html#data-visualization",
+    "title": "My Presentation",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\n\n\n\nAkmalia, Salwa Rismilillah, and Otong Setiawan Djauhari. 2025. “The Expression ‘Mendokusai’and Nagi’s Attitude in Blue Lock: Episode Nagi.” Dinamika Pembelajaran: Jurnal Pendidikan Dan Bahasa 2 (3): 254–60.\n\n\nJordan, Michael I, and Tom M Mitchell. 2015. “Machine Learning: Trends, Perspectives, and Prospects.” Science 349 (6245): 255–60."
+  }
+]
